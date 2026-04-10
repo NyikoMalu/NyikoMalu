@@ -49,18 +49,8 @@ I enjoy transforming complex datasets into actionable insights and building **da
 
 ## 🚀 Projects
 
-### Customer Churn Analysis
-- Analysed behavioural data to identify churn drivers and high-risk segments  
-- Built interactive dashboards to support retention strategies  
-- Delivered actionable recommendations to improve customer lifetime value  
-
-### Financial Performance Analysis
-- Evaluated revenue trends, growth metrics (including CAGR), and profitability drivers  
-- Supported strategic decision-making through data-driven insights  
-
-### HR Analytics Dashboard
-- Identified key factors contributing to employee attrition  
-- Developed dashboards to support workforce planning and HR decision-making  
+### Predictive Analytics for Medical Scheme Claims Processing: An Applied Research Project Using Discovery KeyCare Claims Data
+- Develop predictive models capable of identifying high-risk claims within the Discovery KeyCare dataset. 
 
 ---
 
